@@ -1,3 +1,5 @@
+## Intro
+
 This is a [Next.js] project bootstrapped with [`create-next-app`] for AI topics demonestrations.
 
 ## Why Next.js?
