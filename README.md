@@ -7,6 +7,11 @@ This is a [Next.js] project bootstrapped with [`create-next-app`] for AI topics 
 - Dynamic Server side rendering
 - CSS, webpack, SCSS, Typescript supported
 
+
+## Screenshots
+![Alt text](https://github.com/zaidsallam10/next.js-ai/blob/main/public/s1.png "Homepage")
+
+
 ## Getting Started
 
 First, run the development server:
