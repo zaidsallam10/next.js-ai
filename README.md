@@ -10,6 +10,8 @@ This is a [Next.js] project bootstrapped with [`create-next-app`] for AI topics 
 
 ## Screenshots
 ![Alt text](https://github.com/zaidsallam10/next.js-ai/blob/main/public/s1.png "Homepage")
+![Alt text](https://github.com/zaidsallam10/next.js-ai/blob/main/public/s2.png "Homepage")
+![Alt text](https://github.com/zaidsallam10/next.js-ai/blob/main/public/s3.png "Homepage")
 
 
 ## Getting Started
